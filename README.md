@@ -28,9 +28,4 @@ This project implements a convolutional neural network (CNN) trained from scratc
 
 ---
 
-## License
-This project is open-sourced under the [MIT License](LICENSE).
-
----
-
 Made with ❤️ for learning and health tech innovation.
